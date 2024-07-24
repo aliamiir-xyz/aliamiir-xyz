@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliamiir-xyz, Ali Amir
 - 👀 I’m interested in Web Development and Logic building skills.
-- 🌱 I’m currently working on my Fron-end Development skills.
+- 🌱 I’m currently working on my Front-end Development skills.
 - 📫 How to reach me: You can contact me via email aliamiir.xyz@gmail.com
 - 😄 Pronouns: He/Him
 
